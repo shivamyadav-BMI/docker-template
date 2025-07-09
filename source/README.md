@@ -1,4 +1,4 @@
-##How to run the migration and other commands
+## How to run the migration and other commands
 
 
 # Run this command to create a laravel project on source folder
